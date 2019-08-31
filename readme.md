@@ -8,6 +8,8 @@
 
 <h4>This project is built backend by Laravel and frontend by Vue. Users tabls is used MYSQL still, Blogs Table is used MongoDB. Both frontend and backend have been built unittests. Backend unittest is built by phpunit. Frontend unittest is built by Jest. The Laravel passport is included in this project, the whole project uses Repository pattern. </h4>
 
+<p>All the base things, you should be read and learn from "https://github.com/ramseyjiang/Repo_pattern_laravel_passport_vue_fullstack" first.</p>
+
 <p>If want to run this project directly, please using the following steps.</p>
 <p>Step1: clone the project to your local first.</p>
 <p>Step2: composer install</p>
