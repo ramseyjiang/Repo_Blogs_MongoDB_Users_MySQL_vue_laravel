@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Providers;
+namespace Rspafs\Providers;
 
 use Laravel\Passport\Passport;
 use Illuminate\Support\Facades\Gate;
@@ -14,7 +14,7 @@ class AuthServiceProvider extends ServiceProvider
      * @var array
      */
     protected $policies = [
-        // 'Rspa\Model' => 'Rspa\Policies\ModelPolicy',
+        // 'Rspafs\Model' => 'Rspafs\Policies\ModelPolicy',
     ];
 
     /**

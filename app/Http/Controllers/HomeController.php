@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Http\Controllers;
+namespace Rspafs\Http\Controllers;
 
 use Illuminate\Http\Request;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Rspa\Http\Controllers\Auth;
+namespace Rspafs\Http\Controllers\Auth;
 
-use Rspa\Http\Controllers\Controller;
+use Rspafs\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
-use Rspa\Http\Requests\UserLoginRequest;
-use Rspa\Contracts\Services\UserServiceContract;
+use Rspafs\Http\Requests\UserLoginRequest;
+use Rspafs\Contracts\Services\UserServiceContract;
 
 class LoginController extends Controller
 {

@@ -3,7 +3,7 @@
 namespace Tests;
 
 use Illuminate\Contracts\Console\Kernel;
-use Rspa\Models\User;
+use Rspafs\Models\User;
 
 trait CreatesApplication
 {

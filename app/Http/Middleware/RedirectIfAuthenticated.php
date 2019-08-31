@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Http\Middleware;
+namespace Rspafs\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;

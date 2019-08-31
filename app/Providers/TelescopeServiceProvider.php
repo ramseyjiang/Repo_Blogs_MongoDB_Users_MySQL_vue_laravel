@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Providers;
+namespace Rspafs\Providers;
 
 use Laravel\Telescope\Telescope;
 use Illuminate\Support\Facades\Gate;

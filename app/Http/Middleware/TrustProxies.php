@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Http\Middleware;
+namespace Rspafs\Http\Middleware;
 
 use Illuminate\Http\Request;
 use Fideloper\Proxy\TrustProxies as Middleware;

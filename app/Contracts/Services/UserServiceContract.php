@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Contracts\Services;
+namespace Rspafs\Contracts\Services;
 
 interface UserServiceContract 
 {

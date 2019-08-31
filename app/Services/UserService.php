@@ -1,7 +1,7 @@
 <?php
-namespace Rspa\Services;
+namespace Rspafs\Services;
 
-use Rspa\Contracts\Services\UserServiceContract;
+use Rspafs\Contracts\Services\UserServiceContract;
 use Illuminate\Support\Facades\Auth;
 
 class UserService implements UserServiceContract

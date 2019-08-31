@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Http\Middleware;
+namespace Rspafs\Http\Middleware;
 
 use Illuminate\Auth\Middleware\Authenticate as Middleware;
 

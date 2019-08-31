@@ -1,9 +1,9 @@
 <?php
 
-namespace Rspa\Repositories;
+namespace Rspafs\Repositories;
 
-use Rspa\Contracts\Repositories\UserRepositoryContract;
-use Rspa\Models\User;
+use Rspafs\Contracts\Repositories\UserRepositoryContract;
+use Rspafs\Models\User;
 
 class UserRepository implements UserRepositoryContract
 {

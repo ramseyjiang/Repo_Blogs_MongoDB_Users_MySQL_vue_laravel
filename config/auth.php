@@ -67,7 +67,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => Rspa\Models\User::class,
+            'model' => Rspafs\Models\User::class,
         ],
 
         // 'users' => [

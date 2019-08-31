@@ -11,7 +11,7 @@ class UsersTableSeeder extends Seeder
      */
     public function run()
     {
-        factory(\Rspa\Models\User::class)->create([
+        factory(\Rspafs\Models\User::class)->create([
             'name' => 'admin',
             'username' => 'admin',
             'email' => 'admin@qq.com',

@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Contracts\Repositories;
+namespace Rspafs\Contracts\Repositories;
 
 interface UserRepositoryContract 
 {

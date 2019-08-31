@@ -1,7 +1,7 @@
 <?php
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
-use Rspa\Models\User;
+use Rspafs\Models\User;
 use Illuminate\Support\Str;
 use Faker\Generator as Faker;
 

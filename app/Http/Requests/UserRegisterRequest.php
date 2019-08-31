@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Http\Requests;
+namespace Rspafs\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Rspa\Http\Controllers\Auth;
+namespace Rspafs\Http\Controllers\Auth;
 
-use Rspa\Http\Controllers\Controller;
+use Rspafs\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
-use Rspa\Http\Requests\UserRegisterRequest;
-use Rspa\Contracts\Repositories\UserRepositoryContract;
+use Rspafs\Http\Requests\UserRegisterRequest;
+use Rspafs\Contracts\Repositories\UserRepositoryContract;
 
 class RegisterController extends Controller
 {

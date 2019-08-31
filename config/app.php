@@ -169,12 +169,12 @@ return [
         /*
          * Application Service Providers...
          */
-        Rspa\Providers\AppServiceProvider::class,
-        Rspa\Providers\AuthServiceProvider::class,
-        // Rspa\Providers\BroadcastServiceProvider::class,
-        Rspa\Providers\EventServiceProvider::class,
-        Rspa\Providers\TelescopeServiceProvider::class,
-        Rspa\Providers\RouteServiceProvider::class,
+        Rspafs\Providers\AppServiceProvider::class,
+        Rspafs\Providers\AuthServiceProvider::class,
+        // Rspafs\Providers\BroadcastServiceProvider::class,
+        Rspafs\Providers\EventServiceProvider::class,
+        Rspafs\Providers\TelescopeServiceProvider::class,
+        Rspafs\Providers\RouteServiceProvider::class,
 
     ],
 

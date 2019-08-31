@@ -1,13 +1,13 @@
 <?php
 
-namespace Rspa\Http\Controllers\Api;
+namespace Rspafs\Http\Controllers\Api;
 
 use Illuminate\Http\Response;
-use Rspa\Http\Controllers\Controller;
-use Rspa\Http\Requests\UserLoginRequest;
-use Rspa\Http\Requests\UserRegisterRequest;
-use Rspa\Contracts\Repositories\UserRepositoryContract;
-use Rspa\Contracts\Services\UserServiceContract;
+use Rspafs\Http\Controllers\Controller;
+use Rspafs\Http\Requests\UserLoginRequest;
+use Rspafs\Http\Requests\UserRegisterRequest;
+use Rspafs\Contracts\Repositories\UserRepositoryContract;
+use Rspafs\Contracts\Services\UserServiceContract;
 
 class UserController extends Controller
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace Rspa\Providers;
+namespace Rspafs\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Rspa\Contracts\Repositories\UserRepositoryContract;
-use Rspa\Contracts\Services\UserServiceContract;
-use Rspa\Repositories\UserRepository;
-use Rspa\Services\UserService;
+use Rspafs\Contracts\Repositories\UserRepositoryContract;
+use Rspafs\Contracts\Services\UserServiceContract;
+use Rspafs\Repositories\UserRepository;
+use Rspafs\Services\UserService;
 
 class AppServiceProvider extends ServiceProvider
 {

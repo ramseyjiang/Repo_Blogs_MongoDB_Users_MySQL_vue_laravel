@@ -1,6 +1,6 @@
 <?php
 
-namespace Rspa\Exceptions;
+namespace Rspafs\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
