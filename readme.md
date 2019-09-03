@@ -8,7 +8,7 @@
 
 <h4>This project is built backend by Laravel and frontend by Vue. Users tabls is used MYSQL still, Blogs Table is used MongoDB. Both frontend and backend have been built unittests. Backend unittest is built by phpunit. Frontend unittest is built by Jest. The Laravel passport is included in this project, the whole project uses Repository pattern. </h4>
 
-<p>All the base things, you should be read and learn from "https://github.com/ramseyjiang/Repo_pattern_laravel_passport_vue_fullstack" first.</p>
+<p>All the base things, you should be read and learn from "https://github.com/ramseyjiang/Repo_Pattern_Laraevl_Passport_Vue_Fullstack/tree/4_Blogs_MongoDB_Users_MySQL" first.</p>
 
 <p>If want to run this project directly, please using the following steps.</p>
 <p>Step1: clone the project to your local first.</p>
@@ -29,7 +29,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 <h4>If you wanna to learn how to do this project step by step, you can follow steps under below.</h4>
-<p>This readme only describes how to install and config this project, if you wanna to know the base platform how to build it, please follow this link "https://github.com/ramseyjiang/Repo_pattern_laravel_passport_vue_fullstack"</p>
+<p>This readme only describes how to install and config this project, if you wanna to know the base platform how to build it, please follow this link "https://github.com/ramseyjiang/Repo_Pattern_Laraevl_Passport_Vue_Fullstack/tree/4_Blogs_MongoDB_Users_MySQL"</p>
 
 <p>All steps under below are base on the fullstack you have learnt.</p>
 
@@ -69,7 +69,7 @@
 
 <p>Step17: php artisan make:test BlogTest (It will generate a BlogTest file in the tests/Feature folder.)</p>
 
-<p>Step18: create Blog/List.vue, Blog/Edit.vue in the resources/js/components folder, create Blog/List.test.js, Blog/Edit.test.js in the resources/js/tests folder</p>
+<p>Step18: create blog/List.vue, blog/Edit.vue in the resources/js/components folder, create blog/List.test.js, blog/Edit.test.js in the resources/js/tests folder</p>
 
 <p>Step19: Update routes.js</p>
 

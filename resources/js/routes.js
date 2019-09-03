@@ -6,8 +6,8 @@ import Nav from './components/common/Nav.vue';
 import Register from './components/common/Register.vue';
 import Login from './components/common/Login.vue';
 import Dashboard from './components/common/Dashboard.vue';
-import BlogList from './components/Blog/List.vue';
-import BlogEdit from './components/Blog/Edit.vue';
+import BlogList from './components/blog/List.vue';
+import BlogEdit from './components/blog/Edit.vue';
 
 Vue.component('Nav', Nav);
 Vue.component('Register', Register);
